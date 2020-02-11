@@ -10,6 +10,13 @@ public class HelloTest {
     }
 
     public void a(){
+        System.out.println("asdadadasd");
+        System.out.println("asdadadasd");
+        System.out.println("asdadadasd");
+        System.out.println("asdadadasd");
+
+
+
 
     }
     public void b(){
